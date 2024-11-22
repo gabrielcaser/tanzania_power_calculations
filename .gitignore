@@ -90,5 +90,6 @@ passwords/
 #######################
 # Aditional files
 !*.lock
+!/**/*.Rproj
 
 .Rproj.user
