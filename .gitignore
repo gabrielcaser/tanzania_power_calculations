@@ -88,5 +88,6 @@ passwords/
 
 #######################
 # Aditional files
-!/renv/**
+!*.lock
 
+.Rproj.user
