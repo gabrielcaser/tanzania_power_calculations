@@ -9,13 +9,16 @@ set.seed(123)
 
 # PART 1: Load packages =======================================================
 
-renv::restore() # Uses packages locally, without installing them on the computer
+renv::restore()  # Uses packages locally, without installing them on the computer
 
 packages_select = c(
-  "data.table",
-  "ggplot2",
-  "skimr"
-  
+  "data.table",  # data management
+  "ggplot2",     # plots
+  "skimr",       # quick sum stats
+  "readstata13", # reading .dta files
+  "haven",       # writing .dta files
+  "dplyr",       # data management
+  "labelled"     # variable labels
 )
 
 for (package in packages_select) {
@@ -23,4 +26,4 @@ for (package in packages_select) {
 }
 
 # PART 2 - Execute codes --------------------------------------------------
-#source("Code/01 - Construct dataset.R")
+source("code/01 - Processing Data.R")
