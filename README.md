@@ -1,4 +1,4 @@
-# Replication Package for the Tanzanian's SMART Subisidy Program Power Calculations  
+# Replication Package for the Tanzanian's SMART Subsidy Program Power Calculations
 
 -   This replication package replicates power calculations used for the program's pilot.
 
