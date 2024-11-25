@@ -2,9 +2,21 @@
 
 ## Project Description
 
--   This replication package replicates power calculations used to calculate the Minimum Detectectable Effect (MDE).
--   Task 1: Calculate Mean and Standard Deviation for 4 Outputs () at the Village Level (or another one if Village is not available)
--   Task 2
+-   This replication package replicates power calculations used to calculate the Minimum Detectable Effect (MDE) for a lime subsidy program to be ran in Tanzania.
+
+## Tasks
+
+1.  Run Power Calculations
+
+    1.  Calculate Mean and Standard Deviation for 4 outputs producted (Maze, Avocado, Beans and Brown ???) at the Village Level (or another one if Village is not available)
+
+    2.  Task 2: Calculate Intra-Cluster Correlation
+
+    3.  Generate MDE considering different parameter values
+
+    4.  Produce a table of results
+
+2.  Compare MDE with the literature and classify the estimated MDE as high or low
 
 ## Folder Structure
 
@@ -22,7 +34,8 @@
 
 -   All data comes from National Panel Survey 2020-21, Wave 5 (Tanzania, 2020 - 2022)
 -   Access: <https://microdata.worldbank.org/index.php/catalog/5639>
--   [`ag_sec_5a`](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F45?file_name=ag_sec_5a): Questions on quantity of crops sold, value of sales, customers crops sold to, average distance that crops were transported to for sale, post-harvest losses, how crop residue was handled, method and duration for which crop was stored.
+-   [ag_sec_10](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F51?file_name=ag_sec_10):Information on crops, by-product names and quantity produced, amount of crop used as input, quantity sold, associated prices and buyers and costs incurred due to labor/other inputs are included in this section.
+-   [hh_sec_a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F1?file_name=hh_sec_a): Household location variables, unique within panel round household identification variables, date and time of interview, analytic sampling weights, cluster identification, sampling strata identification, and status of survey.
 
 ## Replication Instructions
 
