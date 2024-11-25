@@ -1,6 +1,10 @@
 # Replication Package for the Tanzanian's SMART Subsidy Program Power Calculations
 
--   This replication package replicates power calculations used for the program's pilot.
+## Project Description
+
+-   This replication package replicates power calculations used to calculate the Minimum Detectectable Effect (MDE).
+-   Task 1: Calculate Mean and Standard Deviation for 4 Outputs () at the Village Level (or another one if Village is not available)
+-   Task 2
 
 ## Folder Structure
 
