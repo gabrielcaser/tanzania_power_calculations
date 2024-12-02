@@ -6,17 +6,21 @@
 
 ## Tasks
 
-1.  Run Power Calculations
+1.  OK Restrict the Sample to the 3 Villages that are part of the experiment ("Iringa", "Katavi", "Njombe")
 
-    1.  Calculate Mean and Standard Deviation for 4 outputs producted (Maize, Avocado, Beans and Brown ???) at the Village Level (or another one if Village is not available)
+2.  OK Calculate share of farmers growing each crop
 
-    2.  Task 2: Calculate Intra-Cluster Correlation
+3.  Run Power Calculations
+
+    1.  Calculate for Production and Production per Hectare the Mean and Standard Deviation of Crops
+
+    2.  Calculate Intra-Cluster Correlation at the Village Level (or another one if Village is not available)
 
     3.  Generate MDE considering different parameter values
 
     4.  Produce a table of results
 
-2.  Compare MDE with the literature and classify the estimated MDE as high or low
+4.  Compare MDE with the literature and classify the estimated MDE as high or low
 
 ## Folder Structure
 
@@ -34,9 +38,12 @@
 
 -   All data comes from National Panel Survey 2020-21, Wave 5 (Tanzania, 2020 - 2022)
 -   Access: <https://microdata.worldbank.org/index.php/catalog/5639>
--   [ag_sec_10](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F51?file_name=ag_sec_10): Information on crops, by-product names and quantity produced, amount of crop used as input, quantity sold, associated prices and buyers and costs incurred due to labor/other inputs are included in this section.
--   [hh_sec_a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F1?file_name=hh_sec_a): Household location variables, unique within panel round household identification variables, date and time of interview, analytic sampling weights, cluster identification, sampling strata identification, and status of survey.
--   [ag_sec_6a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F47?file_name=ag_sec_6a): Number of fruit trees planted on the plot, when these were planted, presence of intercropping, quantity produced, loss before and after harvest, quantity sold, associated value and location sold, method and quantity of crop stored are asked in this section.
+-   Questionnaire: <https://microdata.worldbank.org/index.php/catalog/5639/download/60750>
+-   Missings: Rows with missing production value were dropped
+-   Sources
+    -   [ag_sec_4a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F43?file_name=ag_sec_4a) (LONG RAINY SEASON 2020): Information on crops, by-product names and quantity produced, amount of crop used as input, quantity sold, associated prices and buyers and costs incurred due to labor/other inputs are included in this section.
+    -   [hh_sec_a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F1?file_name=hh_sec_a): Household location variables, unique within panel round household identification variables, date and time of interview, analytic sampling weights, cluster identification, sampling strata identification, and status of survey.
+    -   [ag_sec_6a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F47?file_name=ag_sec_6a): Number of fruit trees planted on the plot, when these were planted, presence of intercropping, quantity produced, loss before and after harvest, quantity sold, associated value and location sold, method and quantity of crop stored are asked in this section.
 
 ## Replication Instructions
 

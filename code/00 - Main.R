@@ -25,5 +25,8 @@ for (package in packages_select) {
   library(package, character.only = TRUE)
 }
 
+rm(package)
+rm(packages_select)
 # PART 2 - Execute codes --------------------------------------------------
 source("code/01 - Processing Data.R")
+source("code/02 - Constructing Data.R")
