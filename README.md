@@ -39,7 +39,9 @@
 -   All data comes from National Panel Survey 2020-21, Wave 5 (Tanzania, 2020 - 2022)
 -   Access: <https://microdata.worldbank.org/index.php/catalog/5639>
 -   Questionnaire: <https://microdata.worldbank.org/index.php/catalog/5639/download/60750>
--   Missings: Rows with missing production value were dropped
+-   Cleaning choices
+    -   Observations with missing production were dropped
+    -   Observations with area harvest equals to 0 were dropped
 -   Sources
     -   [ag_sec_4a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F43?file_name=ag_sec_4a) (LONG RAINY SEASON 2020): Information on crops, by-product names and quantity produced, amount of crop used as input, quantity sold, associated prices and buyers and costs incurred due to labor/other inputs are included in this section.
     -   [hh_sec_a](https://microdata.worldbank.org/index.php/catalog/5639/data-dictionary/F1?file_name=hh_sec_a): Household location variables, unique within panel round household identification variables, date and time of interview, analytic sampling weights, cluster identification, sampling strata identification, and status of survey.
