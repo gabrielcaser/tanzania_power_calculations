@@ -12,7 +12,7 @@
 
 3.  Run Power Calculations
 
-    1.  Calculate for Production and Production per Hectare the Mean and Standard Deviation of Crops
+    1.  OK Calculate for Production and Production per Hectare the Mean and Standard Deviation of Crops
 
     2.  Calculate Intra-Cluster Correlation at the Village Level (or another one if Village is not available)
 
