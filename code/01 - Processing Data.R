@@ -43,7 +43,6 @@ data_ft_p <- data_ft_p[, c(
   "plot_id",
   "cropid",
   "ag6a_09"
-  #"ag6a_04"
   )]
 
 ## Normalizing values names
@@ -71,7 +70,6 @@ data_hh_p <- set_variable_labels(
 data_ft_p <- set_variable_labels(
   data_ft_p,
   ag6a_09  = "What was the total amount of [FRUIT] harvested in the past 12 months? (KG)"
-  #ag6a_04  = "How many plants/trees were planted during the last 12 months?"
 )
 
 # Saving ------------------------------------------------------------------
