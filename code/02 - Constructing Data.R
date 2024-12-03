@@ -56,10 +56,10 @@ table <- set_variable_labels(table,
 
 
 ## Filtering per crop
-table <- table[cropid %in% c("Maize", "Groundnut", "Beans", "Avocado"), ]
+table      <- table[cropid %in% c("Maize", "Groundnut", "Beans", "Avocado"), ]
+data_final <- data_final[cropid %in% c("Maize", "Groundnut", "Beans", "Avocado"), ]
 
 # Saving data_final and table
-
 write_dta(table, "data/final/crops_stats.dta")
 write_dta(data_final, "data/final/household_crops.dta")
 
