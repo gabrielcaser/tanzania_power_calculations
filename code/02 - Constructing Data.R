@@ -54,13 +54,40 @@ table <- set_variable_labels(table,
                              Productivity_SD   = "Standard deviation in the production of CROP harvested per hectare"
 )
 
-
 ## Filtering per crop
 table      <- table[cropid %in% c("Maize", "Groundnut", "Beans", "Avocado"), ]
 data_final <- data_final[cropid %in% c("Maize", "Groundnut", "Beans", "Avocado"), ]
 
+## Reshaping for power calculations
+
+### Reshape the data
+table_long <- melt(
+  table,
+  id.vars = "cropid",
+  measure.vars = list(
+    c("Output_Mean", "Productivity_Mean"), # Means
+    c("Output_SD", "Productivity_SD")      # SDs
+  ),
+  variable.name = "outcome",
+  value.name = c("mean", "sd")
+)
+
+
+### Renaming for clarity
+table_long[, outcome := fifelse(outcome == 1, "Production", "Production per hectare")]
+
+table_long <- set_variable_labels(table_long,
+                             sd                = "Standard deviation of the OUTCOME of CROP/FRUIT per household",
+                             mean              = "Average OUTCOME of CROP",
+)
+
+## Dropping variables we won't use
+data_final[, hh_a01_1 := NULL]
+data_final[, hh_a03_3a := NULL]
+data_final[, hh_a03_1 := NULL]
+
 # Saving data_final and table
-write_dta(table, "data/final/crops_stats.dta")
+write_dta(table_long, "data/final/crops_stats.dta")
 write_dta(data_final, "data/final/household_crops.dta")
 
 
