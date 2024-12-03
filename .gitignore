@@ -93,3 +93,4 @@ passwords/
 !/**/*.Rproj
 !/**/renv/*
 .Rproj.user
+!/**/ado/**/* # ado files (packages)
