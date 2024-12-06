@@ -1,0 +1,881 @@
+crop,outcome,num_farmers,mean,icc,sd,detectable_difference,attrition_percentage,multiples_sd
+Maize,Production,20,983.49524,.081288457,2342.9531,.21806139,0,yes
+Maize,Production,20,983.49524,.081288457,2342.9531,510.90759,0,no
+Maize,Production,20,983.49524,.081288457,2342.9531,.22239245,10,yes
+Maize,Production,20,983.49524,.081288457,2342.9531,521.05505,10,no
+Maize,Production,20,983.49524,.081288457,2342.9531,.22769046,20,yes
+Maize,Production,20,983.49524,.081288457,2342.9531,533.46808,20,no
+Maize,Production,20,983.49524,.081288457,2342.9531,.23432624,30,yes
+Maize,Production,20,983.49524,.081288457,2342.9531,549.01538,30,no
+Maize,Production,20,983.49524,.081288457,2342.9531,.2428921,40,yes
+Maize,Production,20,983.49524,.081288457,2342.9531,569.08478,40,no
+Maize,Production per hectare,20,533.43048,.127644,683.95239,.25300229,0,yes
+Maize,Production per hectare,20,533.43048,.127644,683.95239,173.04152,0,no
+Maize,Production per hectare,20,533.43048,.127644,683.95239,.25655708,10,yes
+Maize,Production per hectare,20,533.43048,.127644,683.95239,175.47282,10,no
+Maize,Production per hectare,20,533.43048,.127644,683.95239,.26093248,20,yes
+Maize,Production per hectare,20,533.43048,.127644,683.95239,178.46539,20,no
+Maize,Production per hectare,20,533.43048,.127644,683.95239,.26645246,30,yes
+Maize,Production per hectare,20,533.43048,.127644,683.95239,182.24078,30,no
+Maize,Production per hectare,20,533.43048,.127644,683.95239,.27363926,40,yes
+Maize,Production per hectare,20,533.43048,.127644,683.95239,187.15622,40,no
+Avocado,Production,20,539.82275,0,3644.7126,.13670336,0,yes
+Avocado,Production,20,539.82275,0,3644.7126,498.24445,0,no
+Avocado,Production,20,539.82275,0,3644.7126,.144098,10,yes
+Avocado,Production,20,539.82275,0,3644.7126,525.1958,10,no
+Avocado,Production,20,539.82275,0,3644.7126,.152839,20,yes
+Avocado,Production,20,539.82275,0,3644.7126,557.05426,20,no
+Avocado,Production,20,539.82275,0,3644.7126,.16339177,30,yes
+Avocado,Production,20,539.82275,0,3644.7126,595.51605,30,no
+Avocado,Production,20,539.82275,0,3644.7126,.17648327,40,yes
+Avocado,Production,20,539.82275,0,3644.7126,643.23083,40,no
+Avocado,Production per hectare,20,,0,,,0,yes
+Avocado,Production per hectare,20,,0,,,0,no
+Avocado,Production per hectare,20,,0,,,10,yes
+Avocado,Production per hectare,20,,0,,,10,no
+Avocado,Production per hectare,20,,0,,,20,yes
+Avocado,Production per hectare,20,,0,,,20,no
+Avocado,Production per hectare,20,,0,,,30,yes
+Avocado,Production per hectare,20,,0,,,30,no
+Avocado,Production per hectare,20,,0,,,40,yes
+Avocado,Production per hectare,20,,0,,,40,no
+Groundnut,Production,20,250.15016,0,403.42685,.13670336,0,yes
+Groundnut,Production,20,250.15016,0,403.42685,55.149807,0,no
+Groundnut,Production,20,250.15016,0,403.42685,.144098,10,yes
+Groundnut,Production,20,250.15016,0,403.42685,58.132999,10,no
+Groundnut,Production,20,250.15016,0,403.42685,.152839,20,yes
+Groundnut,Production,20,250.15016,0,403.42685,61.659355,20,no
+Groundnut,Production,20,250.15016,0,403.42685,.16339177,30,yes
+Groundnut,Production,20,250.15016,0,403.42685,65.916626,30,no
+Groundnut,Production,20,250.15016,0,403.42685,.17648327,40,yes
+Groundnut,Production,20,250.15016,0,403.42685,71.19809,40,no
+Groundnut,Production per hectare,20,271.5231,0,376.33957,.13670336,0,yes
+Groundnut,Production per hectare,20,271.5231,0,376.33957,51.446884,0,no
+Groundnut,Production per hectare,20,271.5231,0,376.33957,.144098,10,yes
+Groundnut,Production per hectare,20,271.5231,0,376.33957,54.229778,10,no
+Groundnut,Production per hectare,20,271.5231,0,376.33957,.152839,20,yes
+Groundnut,Production per hectare,20,271.5231,0,376.33957,57.519363,20,no
+Groundnut,Production per hectare,20,271.5231,0,376.33957,.16339177,30,yes
+Groundnut,Production per hectare,20,271.5231,0,376.33957,61.490788,30,no
+Groundnut,Production per hectare,20,271.5231,0,376.33957,.17648327,40,yes
+Groundnut,Production per hectare,20,271.5231,0,376.33957,66.417641,40,no
+Beans,Production,20,1756.2041,.021574993,31272.17,.16232193,0,yes
+Beans,Production,20,1756.2041,.021574993,31272.17,5076.1587,0,no
+Beans,Production,20,1756.2041,.021574993,31272.17,.16846374,10,yes
+Beans,Production,20,1756.2041,.021574993,31272.17,5268.2266,10,no
+Beans,Production,20,1756.2041,.021574993,31272.17,.17583959,20,yes
+Beans,Production,20,1756.2041,.021574993,31272.17,5498.8853,20,no
+Beans,Production,20,1756.2041,.021574993,31272.17,.18489097,30,yes
+Beans,Production,20,1756.2041,.021574993,31272.17,5781.9419,30,no
+Beans,Production,20,1756.2041,.021574993,31272.17,.19631137,40,yes
+Beans,Production,20,1756.2041,.021574993,31272.17,6139.0825,40,no
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,.16241197,0,yes
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,5078.6709,0,no
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,.16855,10,yes
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,5270.6089,10,no
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,.17592163,20,yes
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,5501.1221,20,no
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,.18496825,30,yes
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,5784.0127,30,no
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,.19638322,40,yes
+Beans,Production per hectare,20,1781.7996,.021657351,31270.299,6140.9619,40,no
+Maize,Production,30,983.49524,.081288457,2342.9531,.20451862,0,yes
+Maize,Production,30,983.49524,.081288457,2342.9531,479.17752,0,no
+Maize,Production,30,983.49524,.081288457,2342.9531,.20760448,10,yes
+Maize,Production,30,983.49524,.081288457,2342.9531,486.40756,10,no
+Maize,Production,30,983.49524,.081288457,2342.9531,.21139848,20,yes
+Maize,Production,30,983.49524,.081288457,2342.9531,495.29672,20,no
+Maize,Production,30,983.49524,.081288457,2342.9531,.21617866,30,yes
+Maize,Production,30,983.49524,.081288457,2342.9531,506.49643,30,no
+Maize,Production,30,983.49524,.081288457,2342.9531,.22239245,40,yes
+Maize,Production,30,983.49524,.081288457,2342.9531,521.05505,40,no
+Maize,Production per hectare,30,533.43048,.127644,683.95239,.24202482,0,yes
+Maize,Production per hectare,30,533.43048,.127644,683.95239,165.53346,0,no
+Maize,Production per hectare,30,533.43048,.127644,683.95239,.24450685,10,yes
+Maize,Production per hectare,30,533.43048,.127644,683.95239,167.23105,10,no
+Maize,Production per hectare,30,533.43048,.127644,683.95239,.2475744,20,yes
+Maize,Production per hectare,30,533.43048,.127644,683.95239,169.3291,20,no
+Maize,Production per hectare,30,533.43048,.127644,683.95239,.25146341,30,yes
+Maize,Production per hectare,30,533.43048,.127644,683.95239,171.989,30,no
+Maize,Production per hectare,30,533.43048,.127644,683.95239,.25655708,40,yes
+Maize,Production per hectare,30,533.43048,.127644,683.95239,175.47282,40,no
+Avocado,Production,30,539.82275,0,3644.7126,.11161783,0,yes
+Avocado,Production,30,539.82275,0,3644.7126,406.81491,0,no
+Avocado,Production,30,539.82275,0,3644.7126,.11765552,10,yes
+Avocado,Production,30,539.82275,0,3644.7126,428.82056,10,no
+Avocado,Production,30,539.82275,0,3644.7126,.12479252,20,yes
+Avocado,Production,30,539.82275,0,3644.7126,454.83289,20,no
+Avocado,Production,30,539.82275,0,3644.7126,.13340881,30,yes
+Avocado,Production,30,539.82275,0,3644.7126,486.23682,30,no
+Avocado,Production,30,539.82275,0,3644.7126,.144098,40,yes
+Avocado,Production,30,539.82275,0,3644.7126,525.1958,40,no
+Avocado,Production per hectare,30,,0,,,0,yes
+Avocado,Production per hectare,30,,0,,,0,no
+Avocado,Production per hectare,30,,0,,,10,yes
+Avocado,Production per hectare,30,,0,,,10,no
+Avocado,Production per hectare,30,,0,,,20,yes
+Avocado,Production per hectare,30,,0,,,20,no
+Avocado,Production per hectare,30,,0,,,30,yes
+Avocado,Production per hectare,30,,0,,,30,no
+Avocado,Production per hectare,30,,0,,,40,yes
+Avocado,Production per hectare,30,,0,,,40,no
+Groundnut,Production,30,250.15016,0,403.42685,.11161783,0,yes
+Groundnut,Production,30,250.15016,0,403.42685,45.029629,0,no
+Groundnut,Production,30,250.15016,0,403.42685,.11765552,10,yes
+Groundnut,Production,30,250.15016,0,403.42685,47.465393,10,no
+Groundnut,Production,30,250.15016,0,403.42685,.12479252,20,yes
+Groundnut,Production,30,250.15016,0,403.42685,50.344654,20,no
+Groundnut,Production,30,250.15016,0,403.42685,.13340881,30,yes
+Groundnut,Production,30,250.15016,0,403.42685,53.820698,30,no
+Groundnut,Production,30,250.15016,0,403.42685,.144098,40,yes
+Groundnut,Production,30,250.15016,0,403.42685,58.132999,40,no
+Groundnut,Production per hectare,30,271.5231,0,376.33957,.11161783,0,yes
+Groundnut,Production per hectare,30,271.5231,0,376.33957,42.006203,0,no
+Groundnut,Production per hectare,30,271.5231,0,376.33957,.11765552,10,yes
+Groundnut,Production per hectare,30,271.5231,0,376.33957,44.278427,10,no
+Groundnut,Production per hectare,30,271.5231,0,376.33957,.12479252,20,yes
+Groundnut,Production per hectare,30,271.5231,0,376.33957,46.964363,20,no
+Groundnut,Production per hectare,30,271.5231,0,376.33957,.13340881,30,yes
+Groundnut,Production per hectare,30,271.5231,0,376.33957,50.207016,30,no
+Groundnut,Production per hectare,30,271.5231,0,376.33957,.144098,40,yes
+Groundnut,Production per hectare,30,271.5231,0,376.33957,54.229778,40,no
+Beans,Production,30,1756.2041,.021574993,31272.17,.14231491,0,yes
+Beans,Production,30,1756.2041,.021574993,31272.17,4450.4961,0,no
+Beans,Production,30,1756.2041,.021574993,31272.17,.14699642,10,yes
+Beans,Production,30,1756.2041,.021574993,31272.17,4596.897,10,no
+Beans,Production,30,1756.2041,.021574993,31272.17,.15264656,20,yes
+Beans,Production,30,1756.2041,.021574993,31272.17,4773.5889,20,no
+Beans,Production,30,1756.2041,.021574993,31272.17,.15961739,30,yes
+Beans,Production,30,1756.2041,.021574993,31272.17,4991.582,30,no
+Beans,Production,30,1756.2041,.021574993,31272.17,.16846374,40,yes
+Beans,Production,30,1756.2041,.021574993,31272.17,5268.2266,40,no
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,.14241941,0,yes
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,4453.4976,0,no
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,.14709722,10,yes
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,4599.7739,10,no
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,.15274315,20,yes
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,4776.3237,20,no
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,.1597092,30,yes
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,4994.1543,30,no
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,.16855,40,yes
+Beans,Production per hectare,30,1781.7996,.021657351,31270.299,5270.6089,40,no
+Maize,Production,40,983.49524,.081288457,2342.9531,.19739912,0,yes
+Maize,Production,40,983.49524,.081288457,2342.9531,462.49689,0,no
+Maize,Production,40,983.49524,.081288457,2342.9531,.19980048,10,yes
+Maize,Production,40,983.49524,.081288457,2342.9531,468.12314,10,no
+Maize,Production,40,983.49524,.081288457,2342.9531,.20276219,20,yes
+Maize,Production,40,983.49524,.081288457,2342.9531,475.06229,20,no
+Maize,Production,40,983.49524,.081288457,2342.9531,.20650768,30,yes
+Maize,Production,40,983.49524,.081288457,2342.9531,483.83783,30,no
+Maize,Production,40,983.49524,.081288457,2342.9531,.21139848,40,yes
+Maize,Production,40,983.49524,.081288457,2342.9531,495.29672,40,no
+Maize,Production per hectare,40,533.43048,.127644,683.95239,.23634498,0,yes
+Maize,Production per hectare,40,533.43048,.127644,683.95239,161.64871,0,no
+Maize,Production per hectare,40,533.43048,.127644,683.95239,.2382533,10,yes
+Maize,Production per hectare,40,533.43048,.127644,683.95239,162.95392,10,no
+Maize,Production per hectare,40,533.43048,.127644,683.95239,.24061742,20,yes
+Maize,Production per hectare,40,533.43048,.127644,683.95239,164.57086,20,no
+Maize,Production per hectare,40,533.43048,.127644,683.95239,.24362332,30,yes
+Maize,Production per hectare,40,533.43048,.127644,683.95239,166.62675,30,no
+Maize,Production per hectare,40,533.43048,.127644,683.95239,.2475744,40,yes
+Maize,Production per hectare,40,533.43048,.127644,683.95239,169.3291,40,no
+Avocado,Production,40,539.82275,0,3644.7126,.09666387,0,yes
+Avocado,Production,40,539.82275,0,3644.7126,352.31204,0,no
+Avocado,Production,40,539.82275,0,3644.7126,.10189267,10,yes
+Avocado,Production,40,539.82275,0,3644.7126,371.36951,10,no
+Avocado,Production,40,539.82275,0,3644.7126,.1080735,20,yes
+Avocado,Production,40,539.82275,0,3644.7126,393.89682,20,no
+Avocado,Production,40,539.82275,0,3644.7126,.11553543,30,yes
+Avocado,Production,40,539.82275,0,3644.7126,421.09341,30,no
+Avocado,Production,40,539.82275,0,3644.7126,.12479252,40,yes
+Avocado,Production,40,539.82275,0,3644.7126,454.83289,40,no
+Avocado,Production per hectare,40,,0,,,0,yes
+Avocado,Production per hectare,40,,0,,,0,no
+Avocado,Production per hectare,40,,0,,,10,yes
+Avocado,Production per hectare,40,,0,,,10,no
+Avocado,Production per hectare,40,,0,,,20,yes
+Avocado,Production per hectare,40,,0,,,20,no
+Avocado,Production per hectare,40,,0,,,30,yes
+Avocado,Production per hectare,40,,0,,,30,no
+Avocado,Production per hectare,40,,0,,,40,yes
+Avocado,Production per hectare,40,,0,,,40,no
+Groundnut,Production,40,250.15016,0,403.42685,.09666387,0,yes
+Groundnut,Production,40,250.15016,0,403.42685,38.996799,0,no
+Groundnut,Production,40,250.15016,0,403.42685,.10189267,10,yes
+Groundnut,Production,40,250.15016,0,403.42685,41.106239,10,no
+Groundnut,Production,40,250.15016,0,403.42685,.1080735,20,yes
+Groundnut,Production,40,250.15016,0,403.42685,43.599751,20,no
+Groundnut,Production,40,250.15016,0,403.42685,.11553543,30,yes
+Groundnut,Production,40,250.15016,0,403.42685,46.610092,30,no
+Groundnut,Production,40,250.15016,0,403.42685,.12479252,40,yes
+Groundnut,Production,40,250.15016,0,403.42685,50.344654,40,no
+Groundnut,Production per hectare,40,271.5231,0,376.33957,.09666387,0,yes
+Groundnut,Production per hectare,40,271.5231,0,376.33957,36.378441,0,no
+Groundnut,Production per hectare,40,271.5231,0,376.33957,.10189267,10,yes
+Groundnut,Production per hectare,40,271.5231,0,376.33957,38.346241,10,no
+Groundnut,Production per hectare,40,271.5231,0,376.33957,.1080735,20,yes
+Groundnut,Production per hectare,40,271.5231,0,376.33957,40.672333,20,no
+Groundnut,Production per hectare,40,271.5231,0,376.33957,.11553543,30,yes
+Groundnut,Production per hectare,40,271.5231,0,376.33957,43.480553,30,no
+Groundnut,Production per hectare,40,271.5231,0,376.33957,.12479252,40,yes
+Groundnut,Production per hectare,40,271.5231,0,376.33957,46.964363,40,no
+Beans,Production,40,1756.2041,.021574993,31272.17,.13117202,0,yes
+Beans,Production,40,1756.2041,.021574993,31272.17,4102.0332,0,no
+Beans,Production,40,1756.2041,.021574993,31272.17,.13498855,10,yes
+Beans,Production,40,1756.2041,.021574993,31272.17,4221.3848,10,no
+Beans,Production,40,1756.2041,.021574993,31272.17,.13961259,20,yes
+Beans,Production,40,1756.2041,.021574993,31272.17,4365.9883,20,no
+Beans,Production,40,1756.2041,.021574993,31272.17,.14534177,30,yes
+Beans,Production,40,1756.2041,.021574993,31272.17,4545.1523,30,no
+Beans,Production,40,1756.2041,.021574993,31272.17,.15264656,40,yes
+Beans,Production,40,1756.2041,.021574993,31272.17,4773.5889,40,no
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,.13128637,0,yes
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,4105.3638,0,no
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,.13509935,10,yes
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,4224.5972,10,no
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,.13971934,20,yes
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,4369.0654,20,no
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,.14544384,30,yes
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,4548.0723,30,no
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,.15274315,40,yes
+Beans,Production per hectare,40,1781.7996,.021657351,31270.299,4776.3237,40,no
+Maize,Production,50,983.49524,.081288457,2342.9531,.19300142,0,yes
+Maize,Production,50,983.49524,.081288457,2342.9531,452.19324,0,no
+Maize,Production,50,983.49524,.081288457,2342.9531,.19496819,10,yes
+Maize,Production,50,983.49524,.081288457,2342.9531,456.80133,10,no
+Maize,Production,50,983.49524,.081288457,2342.9531,.19739912,20,yes
+Maize,Production,50,983.49524,.081288457,2342.9531,462.49689,20,no
+Maize,Production,50,983.49524,.081288457,2342.9531,.2004813,30,yes
+Maize,Production,50,983.49524,.081288457,2342.9531,469.71829,30,no
+Maize,Production,50,983.49524,.081288457,2342.9531,.20451862,40,yes
+Maize,Production,50,983.49524,.081288457,2342.9531,479.17752,40,no
+Maize,Production per hectare,50,533.43048,.127644,683.95239,.23287058,0,yes
+Maize,Production per hectare,50,533.43048,.127644,683.95239,159.27238,0,no
+Maize,Production per hectare,50,533.43048,.127644,683.95239,.2344211,10,yes
+Maize,Production per hectare,50,533.43048,.127644,683.95239,160.33287,10,no
+Maize,Production per hectare,50,533.43048,.127644,683.95239,.23634498,20,yes
+Maize,Production per hectare,50,533.43048,.127644,683.95239,161.64871,20,no
+Maize,Production per hectare,50,533.43048,.127644,683.95239,.23879574,30,yes
+Maize,Production per hectare,50,533.43048,.127644,683.95239,163.32492,30,no
+Maize,Production per hectare,50,533.43048,.127644,683.95239,.24202482,40,yes
+Maize,Production per hectare,50,533.43048,.127644,683.95239,165.53346,40,no
+Avocado,Production,50,539.82275,0,3644.7126,.086458795,0,yes
+Avocado,Production,50,539.82275,0,3644.7126,315.11746,0,no
+Avocado,Production,50,539.82275,0,3644.7126,.091135576,10,yes
+Avocado,Production,50,539.82275,0,3644.7126,332.16296,10,no
+Avocado,Production,50,539.82275,0,3644.7126,.09666387,20,yes
+Avocado,Production,50,539.82275,0,3644.7126,352.31204,20,no
+Avocado,Production,50,539.82275,0,3644.7126,.10333803,30,yes
+Avocado,Production,50,539.82275,0,3644.7126,376.63742,30,no
+Avocado,Production,50,539.82275,0,3644.7126,.11161783,40,yes
+Avocado,Production,50,539.82275,0,3644.7126,406.81491,40,no
+Avocado,Production per hectare,50,,0,,,0,yes
+Avocado,Production per hectare,50,,0,,,0,no
+Avocado,Production per hectare,50,,0,,,10,yes
+Avocado,Production per hectare,50,,0,,,10,no
+Avocado,Production per hectare,50,,0,,,20,yes
+Avocado,Production per hectare,50,,0,,,20,no
+Avocado,Production per hectare,50,,0,,,30,yes
+Avocado,Production per hectare,50,,0,,,30,no
+Avocado,Production per hectare,50,,0,,,40,yes
+Avocado,Production per hectare,50,,0,,,40,no
+Groundnut,Production,50,250.15016,0,403.42685,.086458795,0,yes
+Groundnut,Production,50,250.15016,0,403.42685,34.879799,0,no
+Groundnut,Production,50,250.15016,0,403.42685,.091135576,10,yes
+Groundnut,Production,50,250.15016,0,403.42685,36.766537,10,no
+Groundnut,Production,50,250.15016,0,403.42685,.09666387,20,yes
+Groundnut,Production,50,250.15016,0,403.42685,38.996799,20,no
+Groundnut,Production,50,250.15016,0,403.42685,.10333803,30,yes
+Groundnut,Production,50,250.15016,0,403.42685,41.689335,30,no
+Groundnut,Production,50,250.15016,0,403.42685,.11161783,40,yes
+Groundnut,Production,50,250.15016,0,403.42685,45.029629,40,no
+Groundnut,Production per hectare,50,271.5231,0,376.33957,.086458795,0,yes
+Groundnut,Production per hectare,50,271.5231,0,376.33957,32.537865,0,no
+Groundnut,Production per hectare,50,271.5231,0,376.33957,.091135576,10,yes
+Groundnut,Production per hectare,50,271.5231,0,376.33957,34.29792,10,no
+Groundnut,Production per hectare,50,271.5231,0,376.33957,.09666387,20,yes
+Groundnut,Production per hectare,50,271.5231,0,376.33957,36.378441,20,no
+Groundnut,Production per hectare,50,271.5231,0,376.33957,.10333803,30,yes
+Groundnut,Production per hectare,50,271.5231,0,376.33957,38.890186,30,no
+Groundnut,Production per hectare,50,271.5231,0,376.33957,.11161783,40,yes
+Groundnut,Production per hectare,50,271.5231,0,376.33957,42.006203,40,no
+Beans,Production,50,1756.2041,.021574993,31272.17,.12400659,0,yes
+Beans,Production,50,1756.2041,.021574993,31272.17,3877.9551,0,no
+Beans,Production,50,1756.2041,.021574993,31272.17,.12724105,10,yes
+Beans,Production,50,1756.2041,.021574993,31272.17,3979.1035,10,no
+Beans,Production,50,1756.2041,.021574993,31272.17,.13117202,20,yes
+Beans,Production,50,1756.2041,.021574993,31272.17,4102.0332,20,no
+Beans,Production,50,1756.2041,.021574993,31272.17,.13605933,30,yes
+Beans,Production,50,1756.2041,.021574993,31272.17,4254.8701,30,no
+Beans,Production,50,1756.2041,.021574993,31272.17,.14231491,40,yes
+Beans,Production,50,1756.2041,.021574993,31272.17,4450.4961,40,no
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,.12412816,0,yes
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,3881.5247,0,no
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,.12735927,10,yes
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,3982.5623,10,no
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,.13128637,20,yes
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,4105.3638,20,no
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,.13616917,30,yes
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,4258.0508,30,no
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,.14241941,40,yes
+Beans,Production per hectare,50,1781.7996,.021657351,31270.299,4453.4976,40,no
+Maize,Production,60,983.49524,.081288457,2342.9531,.19001307,0,yes
+Maize,Production,60,983.49524,.081288457,2342.9531,445.19168,0,no
+Maize,Production,60,983.49524,.081288457,2342.9531,.19167902,10,yes
+Maize,Production,60,983.49524,.081288457,2342.9531,449.09491,10,no
+Maize,Production,60,983.49524,.081288457,2342.9531,.19374129,20,yes
+Maize,Production,60,983.49524,.081288457,2342.9531,453.92676,20,no
+Maize,Production,60,983.49524,.081288457,2342.9531,.19636099,30,yes
+Maize,Production,60,983.49524,.081288457,2342.9531,460.06458,30,no
+Maize,Production,60,983.49524,.081288457,2342.9531,.19980048,40,yes
+Maize,Production,60,983.49524,.081288457,2342.9531,468.12314,40,no
+Maize,Production per hectare,60,533.43048,.127644,683.95239,.23052521,0,yes
+Maize,Production per hectare,60,533.43048,.127644,683.95239,157.66827,0,no
+Maize,Production per hectare,60,533.43048,.127644,683.95239,.23183112,10,yes
+Maize,Production per hectare,60,533.43048,.127644,683.95239,158.56145,10,no
+Maize,Production per hectare,60,533.43048,.127644,683.95239,.23345323,20,yes
+Maize,Production per hectare,60,533.43048,.127644,683.95239,159.6709,20,no
+Maize,Production per hectare,60,533.43048,.127644,683.95239,.23552239,30,yes
+Maize,Production per hectare,60,533.43048,.127644,683.95239,161.08609,30,no
+Maize,Production per hectare,60,533.43048,.127644,683.95239,.2382533,40,yes
+Maize,Production per hectare,60,533.43048,.127644,683.95239,162.95392,40,no
+Avocado,Production,60,539.82275,0,3644.7126,.078925721,0,yes
+Avocado,Production,60,539.82275,0,3644.7126,287.66156,0,no
+Avocado,Production,60,539.82275,0,3644.7126,.083195016,10,yes
+Avocado,Production,60,539.82275,0,3644.7126,303.22192,10,no
+Avocado,Production,60,539.82275,0,3644.7126,.088241637,20,yes
+Avocado,Production,60,539.82275,0,3644.7126,321.61542,20,no
+Avocado,Production,60,539.82275,0,3644.7126,.094334282,30,yes
+Avocado,Production,60,539.82275,0,3644.7126,343.82135,30,no
+Avocado,Production,60,539.82275,0,3644.7126,.10189267,40,yes
+Avocado,Production,60,539.82275,0,3644.7126,371.36951,40,no
+Avocado,Production per hectare,60,,0,,,0,yes
+Avocado,Production per hectare,60,,0,,,0,no
+Avocado,Production per hectare,60,,0,,,10,yes
+Avocado,Production per hectare,60,,0,,,10,no
+Avocado,Production per hectare,60,,0,,,20,yes
+Avocado,Production per hectare,60,,0,,,20,no
+Avocado,Production per hectare,60,,0,,,30,yes
+Avocado,Production per hectare,60,,0,,,30,no
+Avocado,Production per hectare,60,,0,,,40,yes
+Avocado,Production per hectare,60,,0,,,40,no
+Groundnut,Production,60,250.15016,0,403.42685,.078925721,0,yes
+Groundnut,Production,60,250.15016,0,403.42685,31.840755,0,no
+Groundnut,Production,60,250.15016,0,403.42685,.083195016,10,yes
+Groundnut,Production,60,250.15016,0,403.42685,33.563103,10,no
+Groundnut,Production,60,250.15016,0,403.42685,.088241637,20,yes
+Groundnut,Production,60,250.15016,0,403.42685,35.599045,20,no
+Groundnut,Production,60,250.15016,0,403.42685,.094334282,30,yes
+Groundnut,Production,60,250.15016,0,403.42685,38.05698,30,no
+Groundnut,Production,60,250.15016,0,403.42685,.10189267,40,yes
+Groundnut,Production,60,250.15016,0,403.42685,41.106239,40,no
+Groundnut,Production per hectare,60,271.5231,0,376.33957,.078925721,0,yes
+Groundnut,Production per hectare,60,271.5231,0,376.33957,29.702871,0,no
+Groundnut,Production per hectare,60,271.5231,0,376.33957,.083195016,10,yes
+Groundnut,Production per hectare,60,271.5231,0,376.33957,31.309576,10,no
+Groundnut,Production per hectare,60,271.5231,0,376.33957,.088241637,20,yes
+Groundnut,Production per hectare,60,271.5231,0,376.33957,33.20882,20,no
+Groundnut,Production per hectare,60,271.5231,0,376.33957,.094334282,30,yes
+Groundnut,Production per hectare,60,271.5231,0,376.33957,35.50172,30,no
+Groundnut,Production per hectare,60,271.5231,0,376.33957,.10189267,40,yes
+Groundnut,Production per hectare,60,271.5231,0,376.33957,38.346241,40,no
+Beans,Production,60,1756.2041,.021574993,31272.17,.11899017,0,yes
+Beans,Production,60,1756.2041,.021574993,31272.17,3721.0806,0,no
+Beans,Production,60,1756.2041,.021574993,31272.17,.12180258,10,yes
+Beans,Production,60,1756.2041,.021574993,31272.17,3809.0308,10,no
+Beans,Production,60,1756.2041,.021574993,31272.17,.1252293,20,yes
+Beans,Production,60,1756.2041,.021574993,31272.17,3916.1919,20,no
+Beans,Production,60,1756.2041,.021574993,31272.17,.12950192,30,yes
+Beans,Production,60,1756.2041,.021574993,31272.17,4049.8062,30,no
+Beans,Production,60,1756.2041,.021574993,31272.17,.13498855,40,yes
+Beans,Production,60,1756.2041,.021574993,31272.17,4221.3848,40,no
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,.11911729,0,yes
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,3724.8333,0,no
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,.12192654,10,yes
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,3812.6792,10,no
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,.12534958,20,yes
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,3919.719,20,no
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,.12961788,30,yes
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,4053.1902,30,no
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,.13509935,40,yes
+Beans,Production per hectare,60,1781.7996,.021657351,31270.299,4224.5972,40,no
+Maize,Production,70,983.49524,.081288457,2342.9531,.18784943,0,yes
+Maize,Production,70,983.49524,.081288457,2342.9531,440.12241,0,no
+Maize,Production,70,983.49524,.081288457,2342.9531,.18929461,10,yes
+Maize,Production,70,983.49524,.081288457,2342.9531,443.50836,10,no
+Maize,Production,70,983.49524,.081288457,2342.9531,.1910857,20,yes
+Maize,Production,70,983.49524,.081288457,2342.9531,447.70483,20,no
+Maize,Production,70,983.49524,.081288457,2342.9531,.19336416,30,yes
+Maize,Production,70,983.49524,.081288457,2342.9531,453.04315,30,no
+Maize,Production,70,983.49524,.081288457,2342.9531,.19636099,40,yes
+Maize,Production,70,983.49524,.081288457,2342.9531,460.06458,40,no
+Maize,Production per hectare,70,533.43048,.127644,683.95239,.22883524,0,yes
+Maize,Production per hectare,70,533.43048,.127644,683.95239,156.51241,0,no
+Maize,Production per hectare,70,533.43048,.127644,683.95239,.22996327,10,yes
+Maize,Production per hectare,70,533.43048,.127644,683.95239,157.28394,10,no
+Maize,Production per hectare,70,533.43048,.127644,683.95239,.23136558,20,yes
+Maize,Production per hectare,70,533.43048,.127644,683.95239,158.24304,20,no
+Maize,Production per hectare,70,533.43048,.127644,683.95239,.23315614,30,yes
+Maize,Production per hectare,70,533.43048,.127644,683.95239,159.4677,30,no
+Maize,Production per hectare,70,533.43048,.127644,683.95239,.23552239,40,yes
+Maize,Production per hectare,70,533.43048,.127644,683.95239,161.08609,40,no
+Avocado,Production,70,539.82275,0,3644.7126,.073071018,0,yes
+Avocado,Production,70,539.82275,0,3644.7126,266.32288,0,no
+Avocado,Production,70,539.82275,0,3644.7126,.077023618,10,yes
+Avocado,Production,70,539.82275,0,3644.7126,280.72894,10,no
+Avocado,Production,70,539.82275,0,3644.7126,.081695884,20,yes
+Avocado,Production,70,539.82275,0,3644.7126,297.75803,20,no
+Avocado,Production,70,539.82275,0,3644.7126,.08733657,30,yes
+Avocado,Production,70,539.82275,0,3644.7126,318.31671,30,no
+Avocado,Production,70,539.82275,0,3644.7126,.094334282,40,yes
+Avocado,Production,70,539.82275,0,3644.7126,343.82135,40,no
+Avocado,Production per hectare,70,,0,,,0,yes
+Avocado,Production per hectare,70,,0,,,0,no
+Avocado,Production per hectare,70,,0,,,10,yes
+Avocado,Production per hectare,70,,0,,,10,no
+Avocado,Production per hectare,70,,0,,,20,yes
+Avocado,Production per hectare,70,,0,,,20,no
+Avocado,Production per hectare,70,,0,,,30,yes
+Avocado,Production per hectare,70,,0,,,30,no
+Avocado,Production per hectare,70,,0,,,40,yes
+Avocado,Production per hectare,70,,0,,,40,no
+Groundnut,Production,70,250.15016,0,403.42685,.073071018,0,yes
+Groundnut,Production,70,250.15016,0,403.42685,29.478811,0,no
+Groundnut,Production,70,250.15016,0,403.42685,.077023618,10,yes
+Groundnut,Production,70,250.15016,0,403.42685,31.073395,10,no
+Groundnut,Production,70,250.15016,0,403.42685,.081695884,20,yes
+Groundnut,Production,70,250.15016,0,403.42685,32.958313,20,no
+Groundnut,Production,70,250.15016,0,403.42685,.08733657,30,yes
+Groundnut,Production,70,250.15016,0,403.42685,35.233917,30,no
+Groundnut,Production,70,250.15016,0,403.42685,.094334282,40,yes
+Groundnut,Production,70,250.15016,0,403.42685,38.05698,40,no
+Groundnut,Production per hectare,70,271.5231,0,376.33957,.073071018,0,yes
+Groundnut,Production per hectare,70,271.5231,0,376.33957,27.499516,0,no
+Groundnut,Production per hectare,70,271.5231,0,376.33957,.077023618,10,yes
+Groundnut,Production per hectare,70,271.5231,0,376.33957,28.987036,10,no
+Groundnut,Production per hectare,70,271.5231,0,376.33957,.081695884,20,yes
+Groundnut,Production per hectare,70,271.5231,0,376.33957,30.745394,20,no
+Groundnut,Production per hectare,70,271.5231,0,376.33957,.08733657,30,yes
+Groundnut,Production per hectare,70,271.5231,0,376.33957,32.86821,30,no
+Groundnut,Production per hectare,70,271.5231,0,376.33957,.094334282,40,yes
+Groundnut,Production per hectare,70,271.5231,0,376.33957,35.50172,40,no
+Beans,Production,70,1756.2041,.021574993,31272.17,.11527343,0,yes
+Beans,Production,70,1756.2041,.021574993,31272.17,3604.8503,0,no
+Beans,Production,70,1756.2041,.021574993,31272.17,.11776429,10,yes
+Beans,Production,70,1756.2041,.021574993,31272.17,3682.7449,10,no
+Beans,Production,70,1756.2041,.021574993,31272.17,.12080567,20,yes
+Beans,Production,70,1756.2041,.021574993,31272.17,3777.8552,20,no
+Beans,Production,70,1756.2041,.021574993,31272.17,.12460697,30,yes
+Beans,Production,70,1756.2041,.021574993,31272.17,3896.7302,30,no
+Beans,Production,70,1756.2041,.021574993,31272.17,.12950192,40,yes
+Beans,Production,70,1756.2041,.021574993,31272.17,4049.8062,40,no
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,.11540496,0,yes
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,3608.7478,0,no
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,.11789284,10,yes
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,3686.5442,10,no
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,.12093072,20,yes
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,3781.54,20,no
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,.1247279,30,yes
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,3900.2788,30,no
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,.12961788,40,yes
+Beans,Production per hectare,70,1781.7996,.021657351,31270.299,4053.1902,40,no
+Maize,Production,80,983.49524,.081288457,2342.9531,.1862102,0,yes
+Maize,Production,80,983.49524,.081288457,2342.9531,436.28177,0,no
+Maize,Production,80,983.49524,.081288457,2342.9531,.1874864,10,yes
+Maize,Production,80,983.49524,.081288457,2342.9531,439.27182,10,no
+Maize,Production,80,983.49524,.081288457,2342.9531,.18906952,20,yes
+Maize,Production,80,983.49524,.081288457,2342.9531,442.98102,20,no
+Maize,Production,80,983.49524,.081288457,2342.9531,.1910857,30,yes
+Maize,Production,80,983.49524,.081288457,2342.9531,447.70483,30,no
+Maize,Production,80,983.49524,.081288457,2342.9531,.19374129,40,yes
+Maize,Production,80,983.49524,.081288457,2342.9531,453.92676,40,no
+Maize,Production per hectare,80,533.43048,.127644,683.95239,.22755954,0,yes
+Maize,Production per hectare,80,533.43048,.127644,683.95239,155.63988,0,no
+Maize,Production per hectare,80,533.43048,.127644,683.95239,.22855237,10,yes
+Maize,Production per hectare,80,533.43048,.127644,683.95239,156.31894,10,no
+Maize,Production per hectare,80,533.43048,.127644,683.95239,.22978738,20,yes
+Maize,Production per hectare,80,533.43048,.127644,683.95239,157.16364,20,no
+Maize,Production per hectare,80,533.43048,.127644,683.95239,.23136558,30,yes
+Maize,Production per hectare,80,533.43048,.127644,683.95239,158.24304,30,no
+Maize,Production per hectare,80,533.43048,.127644,683.95239,.23345323,40,yes
+Maize,Production per hectare,80,533.43048,.127644,683.95239,159.6709,40,no
+Avocado,Production,80,539.82275,0,3644.7126,.068351679,0,yes
+Avocado,Production,80,539.82275,0,3644.7126,249.12222,0,no
+Avocado,Production,80,539.82275,0,3644.7126,.072048999,10,yes
+Avocado,Production,80,539.82275,0,3644.7126,262.5979,10,no
+Avocado,Production,80,539.82275,0,3644.7126,.076419502,20,yes
+Avocado,Production,80,539.82275,0,3644.7126,278.52713,20,no
+Avocado,Production,80,539.82275,0,3644.7126,.081695884,30,yes
+Avocado,Production,80,539.82275,0,3644.7126,297.75803,30,no
+Avocado,Production,80,539.82275,0,3644.7126,.088241637,40,yes
+Avocado,Production,80,539.82275,0,3644.7126,321.61542,40,no
+Avocado,Production per hectare,80,,0,,,0,yes
+Avocado,Production per hectare,80,,0,,,0,no
+Avocado,Production per hectare,80,,0,,,10,yes
+Avocado,Production per hectare,80,,0,,,10,no
+Avocado,Production per hectare,80,,0,,,20,yes
+Avocado,Production per hectare,80,,0,,,20,no
+Avocado,Production per hectare,80,,0,,,30,yes
+Avocado,Production per hectare,80,,0,,,30,no
+Avocado,Production per hectare,80,,0,,,40,yes
+Avocado,Production per hectare,80,,0,,,40,no
+Groundnut,Production,80,250.15016,0,403.42685,.068351679,0,yes
+Groundnut,Production,80,250.15016,0,403.42685,27.574903,0,no
+Groundnut,Production,80,250.15016,0,403.42685,.072048999,10,yes
+Groundnut,Production,80,250.15016,0,403.42685,29.0665,10,no
+Groundnut,Production,80,250.15016,0,403.42685,.076419502,20,yes
+Groundnut,Production,80,250.15016,0,403.42685,30.829678,20,no
+Groundnut,Production,80,250.15016,0,403.42685,.081695884,30,yes
+Groundnut,Production,80,250.15016,0,403.42685,32.958313,30,no
+Groundnut,Production,80,250.15016,0,403.42685,.088241637,40,yes
+Groundnut,Production,80,250.15016,0,403.42685,35.599045,40,no
+Groundnut,Production per hectare,80,271.5231,0,376.33957,.068351679,0,yes
+Groundnut,Production per hectare,80,271.5231,0,376.33957,25.723442,0,no
+Groundnut,Production per hectare,80,271.5231,0,376.33957,.072048999,10,yes
+Groundnut,Production per hectare,80,271.5231,0,376.33957,27.114889,10,no
+Groundnut,Production per hectare,80,271.5231,0,376.33957,.076419502,20,yes
+Groundnut,Production per hectare,80,271.5231,0,376.33957,28.759682,20,no
+Groundnut,Production per hectare,80,271.5231,0,376.33957,.081695884,30,yes
+Groundnut,Production per hectare,80,271.5231,0,376.33957,30.745394,30,no
+Groundnut,Production per hectare,80,271.5231,0,376.33957,.088241637,40,yes
+Groundnut,Production per hectare,80,271.5231,0,376.33957,33.20882,40,no
+Beans,Production,80,1756.2041,.021574993,31272.17,.11240526,0,yes
+Beans,Production,80,1756.2041,.021574993,31272.17,3515.1563,0,no
+Beans,Production,80,1756.2041,.021574993,31272.17,.11464226,10,yes
+Beans,Production,80,1756.2041,.021574993,31272.17,3585.1121,10,no
+Beans,Production,80,1756.2041,.021574993,31272.17,.11737858,20,yes
+Beans,Production,80,1756.2041,.021574993,31272.17,3670.6826,20,no
+Beans,Production,80,1756.2041,.021574993,31272.17,.12080567,30,yes
+Beans,Production,80,1756.2041,.021574993,31272.17,3777.8552,30,no
+Beans,Production,80,1756.2041,.021574993,31272.17,.1252293,40,yes
+Beans,Production,80,1756.2041,.021574993,31272.17,3916.1919,40,no
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,.11254039,0,yes
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,3519.1716,0,no
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,.11477457,10,yes
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,3589.0352,10,no
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,.11750758,20,yes
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,3674.4971,20,no
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,.12093072,30,yes
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,3781.54,30,no
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,.12534958,40,yes
+Beans,Production per hectare,80,1781.7996,.021657351,31270.299,3919.719,40,no
+Maize,Production,90,983.49524,.081288457,2342.9531,.1849252,0,yes
+Maize,Production,90,983.49524,.081288457,2342.9531,433.27109,0,no
+Maize,Production,90,983.49524,.081288457,2342.9531,.18606786,10,yes
+Maize,Production,90,983.49524,.081288457,2342.9531,435.94827,10,no
+Maize,Production,90,983.49524,.081288457,2342.9531,.1874864,20,yes
+Maize,Production,90,983.49524,.081288457,2342.9531,439.27182,20,no
+Maize,Production,90,983.49524,.081288457,2342.9531,.18929461,30,yes
+Maize,Production,90,983.49524,.081288457,2342.9531,443.50836,30,no
+Maize,Production,90,983.49524,.081288457,2342.9531,.19167902,40,yes
+Maize,Production,90,983.49524,.081288457,2342.9531,449.09491,40,no
+Maize,Production per hectare,90,533.43048,.127644,683.95239,.22656234,0,yes
+Maize,Production per hectare,90,533.43048,.127644,683.95239,154.95786,0,no
+Maize,Production per hectare,90,533.43048,.127644,683.95239,.22744896,10,yes
+Maize,Production per hectare,90,533.43048,.127644,683.95239,155.56425,10,no
+Maize,Production per hectare,90,533.43048,.127644,683.95239,.22855237,20,yes
+Maize,Production per hectare,90,533.43048,.127644,683.95239,156.31894,20,no
+Maize,Production per hectare,90,533.43048,.127644,683.95239,.22996327,30,yes
+Maize,Production per hectare,90,533.43048,.127644,683.95239,157.28394,30,no
+Maize,Production per hectare,90,533.43048,.127644,683.95239,.23183112,40,yes
+Maize,Production per hectare,90,533.43048,.127644,683.95239,158.56145,40,no
+Avocado,Production,90,539.82275,0,3644.7126,.064442582,0,yes
+Avocado,Production,90,539.82275,0,3644.7126,234.87469,0,no
+Avocado,Production,90,539.82275,0,3644.7126,.067928448,10,yes
+Avocado,Production,90,539.82275,0,3644.7126,247.57967,10,no
+Avocado,Production,90,539.82275,0,3644.7126,.072048999,20,yes
+Avocado,Production,90,539.82275,0,3644.7126,262.5979,20,no
+Avocado,Production,90,539.82275,0,3644.7126,.077023618,30,yes
+Avocado,Production,90,539.82275,0,3644.7126,280.72894,30,no
+Avocado,Production,90,539.82275,0,3644.7126,.083195016,40,yes
+Avocado,Production,90,539.82275,0,3644.7126,303.22192,40,no
+Avocado,Production per hectare,90,,0,,,0,yes
+Avocado,Production per hectare,90,,0,,,0,no
+Avocado,Production per hectare,90,,0,,,10,yes
+Avocado,Production per hectare,90,,0,,,10,no
+Avocado,Production per hectare,90,,0,,,20,yes
+Avocado,Production per hectare,90,,0,,,20,no
+Avocado,Production per hectare,90,,0,,,30,yes
+Avocado,Production per hectare,90,,0,,,30,no
+Avocado,Production per hectare,90,,0,,,40,yes
+Avocado,Production per hectare,90,,0,,,40,no
+Groundnut,Production,90,250.15016,0,403.42685,.064442582,0,yes
+Groundnut,Production,90,250.15016,0,403.42685,25.997868,0,no
+Groundnut,Production,90,250.15016,0,403.42685,.067928448,10,yes
+Groundnut,Production,90,250.15016,0,403.42685,27.404158,10,no
+Groundnut,Production,90,250.15016,0,403.42685,.072048999,20,yes
+Groundnut,Production,90,250.15016,0,403.42685,29.0665,20,no
+Groundnut,Production,90,250.15016,0,403.42685,.077023618,30,yes
+Groundnut,Production,90,250.15016,0,403.42685,31.073395,30,no
+Groundnut,Production,90,250.15016,0,403.42685,.083195016,40,yes
+Groundnut,Production,90,250.15016,0,403.42685,33.563103,40,no
+Groundnut,Production per hectare,90,271.5231,0,376.33957,.064442582,0,yes
+Groundnut,Production per hectare,90,271.5231,0,376.33957,24.252293,0,no
+Groundnut,Production per hectare,90,271.5231,0,376.33957,.067928448,10,yes
+Groundnut,Production per hectare,90,271.5231,0,376.33957,25.564161,10,no
+Groundnut,Production per hectare,90,271.5231,0,376.33957,.072048999,20,yes
+Groundnut,Production per hectare,90,271.5231,0,376.33957,27.114889,20,no
+Groundnut,Production per hectare,90,271.5231,0,376.33957,.077023618,30,yes
+Groundnut,Production per hectare,90,271.5231,0,376.33957,28.987036,30,no
+Groundnut,Production per hectare,90,271.5231,0,376.33957,.083195016,40,yes
+Groundnut,Production per hectare,90,271.5231,0,376.33957,31.309576,40,no
+Beans,Production,90,1756.2041,.021574993,31272.17,.11012282,0,yes
+Beans,Production,90,1756.2041,.021574993,31272.17,3443.7795,0,no
+Beans,Production,90,1756.2041,.021574993,31272.17,.11215395,10,yes
+Beans,Production,90,1756.2041,.021574993,31272.17,3507.2971,10,no
+Beans,Production,90,1756.2041,.021574993,31272.17,.11464226,20,yes
+Beans,Production,90,1756.2041,.021574993,31272.17,3585.1121,20,no
+Beans,Production,90,1756.2041,.021574993,31272.17,.11776429,30,yes
+Beans,Production,90,1756.2041,.021574993,31272.17,3682.7449,30,no
+Beans,Production,90,1756.2041,.021574993,31272.17,.12180258,40,yes
+Beans,Production,90,1756.2041,.021574993,31272.17,3809.0308,40,no
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,.11026094,0,yes
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,3447.8926,0,no
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,.1122894,10,yes
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,3511.3232,10,no
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,.11477457,20,yes
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,3589.0352,20,no
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,.11789284,30,yes
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,3686.5442,30,no
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,.12192654,40,yes
+Beans,Production per hectare,90,1781.7996,.021657351,31270.299,3812.6792,40,no
+Maize,Production,100,983.49524,.081288457,2342.9531,.18389075,0,yes
+Maize,Production,100,983.49524,.081288457,2342.9531,430.84738,0,no
+Maize,Production,100,983.49524,.081288457,2342.9531,.1849252,10,yes
+Maize,Production,100,983.49524,.081288457,2342.9531,433.27109,10,no
+Maize,Production,100,983.49524,.081288457,2342.9531,.1862102,20,yes
+Maize,Production,100,983.49524,.081288457,2342.9531,436.28177,20,no
+Maize,Production,100,983.49524,.081288457,2342.9531,.18784943,30,yes
+Maize,Production,100,983.49524,.081288457,2342.9531,440.12241,30,no
+Maize,Production,100,983.49524,.081288457,2342.9531,.19001307,40,yes
+Maize,Production,100,983.49524,.081288457,2342.9531,445.19168,40,no
+Maize,Production per hectare,100,533.43048,.127644,683.95239,.22576141,0,yes
+Maize,Production per hectare,100,533.43048,.127644,683.95239,154.41006,0,no
+Maize,Production per hectare,100,533.43048,.127644,683.95239,.22656234,10,yes
+Maize,Production per hectare,100,533.43048,.127644,683.95239,154.95786,10,no
+Maize,Production per hectare,100,533.43048,.127644,683.95239,.22755954,20,yes
+Maize,Production per hectare,100,533.43048,.127644,683.95239,155.63988,20,no
+Maize,Production per hectare,100,533.43048,.127644,683.95239,.22883524,30,yes
+Maize,Production per hectare,100,533.43048,.127644,683.95239,156.51241,30,no
+Maize,Production per hectare,100,533.43048,.127644,683.95239,.23052521,40,yes
+Maize,Production per hectare,100,533.43048,.127644,683.95239,157.66827,40,no
+Avocado,Production,100,539.82275,0,3644.7126,.061135601,0,yes
+Avocado,Production,100,539.82275,0,3644.7126,222.8217,0,no
+Avocado,Production,100,539.82275,0,3644.7126,.064442582,10,yes
+Avocado,Production,100,539.82275,0,3644.7126,234.87469,10,no
+Avocado,Production,100,539.82275,0,3644.7126,.068351679,20,yes
+Avocado,Production,100,539.82275,0,3644.7126,249.12222,20,no
+Avocado,Production,100,539.82275,0,3644.7126,.073071018,30,yes
+Avocado,Production,100,539.82275,0,3644.7126,266.32288,30,no
+Avocado,Production,100,539.82275,0,3644.7126,.078925721,40,yes
+Avocado,Production,100,539.82275,0,3644.7126,287.66156,40,no
+Avocado,Production per hectare,100,,0,,,0,yes
+Avocado,Production per hectare,100,,0,,,0,no
+Avocado,Production per hectare,100,,0,,,10,yes
+Avocado,Production per hectare,100,,0,,,10,no
+Avocado,Production per hectare,100,,0,,,20,yes
+Avocado,Production per hectare,100,,0,,,20,no
+Avocado,Production per hectare,100,,0,,,30,yes
+Avocado,Production per hectare,100,,0,,,30,no
+Avocado,Production per hectare,100,,0,,,40,yes
+Avocado,Production per hectare,100,,0,,,40,no
+Groundnut,Production,100,250.15016,0,403.42685,.061135601,0,yes
+Groundnut,Production,100,250.15016,0,403.42685,24.663742,0,no
+Groundnut,Production,100,250.15016,0,403.42685,.064442582,10,yes
+Groundnut,Production,100,250.15016,0,403.42685,25.997868,10,no
+Groundnut,Production,100,250.15016,0,403.42685,.068351679,20,yes
+Groundnut,Production,100,250.15016,0,403.42685,27.574903,20,no
+Groundnut,Production,100,250.15016,0,403.42685,.073071018,30,yes
+Groundnut,Production,100,250.15016,0,403.42685,29.478811,30,no
+Groundnut,Production,100,250.15016,0,403.42685,.078925721,40,yes
+Groundnut,Production,100,250.15016,0,403.42685,31.840755,40,no
+Groundnut,Production per hectare,100,271.5231,0,376.33957,.061135601,0,yes
+Groundnut,Production per hectare,100,271.5231,0,376.33957,23.007746,0,no
+Groundnut,Production per hectare,100,271.5231,0,376.33957,.064442582,10,yes
+Groundnut,Production per hectare,100,271.5231,0,376.33957,24.252293,10,no
+Groundnut,Production per hectare,100,271.5231,0,376.33957,.068351679,20,yes
+Groundnut,Production per hectare,100,271.5231,0,376.33957,25.723442,20,no
+Groundnut,Production per hectare,100,271.5231,0,376.33957,.073071018,30,yes
+Groundnut,Production per hectare,100,271.5231,0,376.33957,27.499516,30,no
+Groundnut,Production per hectare,100,271.5231,0,376.33957,.078925721,40,yes
+Groundnut,Production per hectare,100,271.5231,0,376.33957,29.702871,40,no
+Beans,Production,100,1756.2041,.021574993,31272.17,.10826223,0,yes
+Beans,Production,100,1756.2041,.021574993,31272.17,3385.5947,0,no
+Beans,Production,100,1756.2041,.021574993,31272.17,.11012282,10,yes
+Beans,Production,100,1756.2041,.021574993,31272.17,3443.7795,10,no
+Beans,Production,100,1756.2041,.021574993,31272.17,.11240526,20,yes
+Beans,Production,100,1756.2041,.021574993,31272.17,3515.1563,20,no
+Beans,Production,100,1756.2041,.021574993,31272.17,.11527343,30,yes
+Beans,Production,100,1756.2041,.021574993,31272.17,3604.8503,30,no
+Beans,Production,100,1756.2041,.021574993,31272.17,.11899017,40,yes
+Beans,Production,100,1756.2041,.021574993,31272.17,3721.0806,40,no
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,.10840289,0,yes
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,3389.7905,0,no
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,.11026094,10,yes
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,3447.8926,10,no
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,.11254039,20,yes
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,3519.1716,20,no
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,.11540496,30,yes
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,3608.7478,30,no
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,.11911729,40,yes
+Beans,Production per hectare,100,1781.7996,.021657351,31270.299,3724.8333,40,no
+Maize,Production,110,983.49524,.081288457,2342.9531,.18304001,0,yes
+Maize,Production,110,983.49524,.081288457,2342.9531,428.85416,0,no
+Maize,Production,110,983.49524,.081288457,2342.9531,.18398502,10,yes
+Maize,Production,110,983.49524,.081288457,2342.9531,431.06827,10,no
+Maize,Production,110,983.49524,.081288457,2342.9531,.1851595,20,yes
+Maize,Production,110,983.49524,.081288457,2342.9531,433.82004,20,no
+Maize,Production,110,983.49524,.081288457,2342.9531,.1866587,30,yes
+Maize,Production,110,983.49524,.081288457,2342.9531,437.33255,30,no
+Maize,Production,110,983.49524,.081288457,2342.9531,.18863907,40,yes
+Maize,Production,110,983.49524,.081288457,2342.9531,441.9725,40,no
+Maize,Production per hectare,110,533.43048,.127644,683.95239,.225104,0,yes
+Maize,Production per hectare,110,533.43048,.127644,683.95239,153.96042,0,no
+Maize,Production per hectare,110,533.43048,.127644,683.95239,.22583435,10,yes
+Maize,Production per hectare,110,533.43048,.127644,683.95239,154.45995,10,no
+Maize,Production per hectare,110,533.43048,.127644,683.95239,.22674398,20,yes
+Maize,Production per hectare,110,533.43048,.127644,683.95239,155.08208,20,no
+Maize,Production per hectare,110,533.43048,.127644,683.95239,.22790816,30,yes
+Maize,Production per hectare,110,533.43048,.127644,683.95239,155.87833,30,no
+Maize,Production per hectare,110,533.43048,.127644,683.95239,.22945122,40,yes
+Maize,Production per hectare,110,533.43048,.127644,683.95239,156.93372,40,no
+Avocado,Production,110,539.82275,0,3644.7126,.058290508,0,yes
+Avocado,Production,110,539.82275,0,3644.7126,212.45215,0,no
+Avocado,Production,110,539.82275,0,3644.7126,.06144359,10,yes
+Avocado,Production,110,539.82275,0,3644.7126,223.94423,10,no
+Avocado,Production,110,539.82275,0,3644.7126,.065170772,20,yes
+Avocado,Production,110,539.82275,0,3644.7126,237.52873,20,no
+Avocado,Production,110,539.82275,0,3644.7126,.069670483,30,yes
+Avocado,Production,110,539.82275,0,3644.7126,253.92889,30,no
+Avocado,Production,110,539.82275,0,3644.7126,.075252727,40,yes
+Avocado,Production,110,539.82275,0,3644.7126,274.27454,40,no
+Avocado,Production per hectare,110,,0,,,0,yes
+Avocado,Production per hectare,110,,0,,,0,no
+Avocado,Production per hectare,110,,0,,,10,yes
+Avocado,Production per hectare,110,,0,,,10,no
+Avocado,Production per hectare,110,,0,,,20,yes
+Avocado,Production per hectare,110,,0,,,20,no
+Avocado,Production per hectare,110,,0,,,30,yes
+Avocado,Production per hectare,110,,0,,,30,no
+Avocado,Production per hectare,110,,0,,,40,yes
+Avocado,Production per hectare,110,,0,,,40,no
+Groundnut,Production,110,250.15016,0,403.42685,.058290508,0,yes
+Groundnut,Production,110,250.15016,0,403.42685,23.515957,0,no
+Groundnut,Production,110,250.15016,0,403.42685,.06144359,10,yes
+Groundnut,Production,110,250.15016,0,403.42685,24.787994,10,no
+Groundnut,Production,110,250.15016,0,403.42685,.065170772,20,yes
+Groundnut,Production,110,250.15016,0,403.42685,26.291637,20,no
+Groundnut,Production,110,250.15016,0,403.42685,.069670483,30,yes
+Groundnut,Production,110,250.15016,0,403.42685,28.106943,30,no
+Groundnut,Production,110,250.15016,0,403.42685,.075252727,40,yes
+Groundnut,Production,110,250.15016,0,403.42685,30.358969,40,no
+Groundnut,Production per hectare,110,271.5231,0,376.33957,.058290508,0,yes
+Groundnut,Production per hectare,110,271.5231,0,376.33957,21.937025,0,no
+Groundnut,Production per hectare,110,271.5231,0,376.33957,.06144359,10,yes
+Groundnut,Production per hectare,110,271.5231,0,376.33957,23.123655,10,no
+Groundnut,Production per hectare,110,271.5231,0,376.33957,.065170772,20,yes
+Groundnut,Production per hectare,110,271.5231,0,376.33957,24.526339,20,no
+Groundnut,Production per hectare,110,271.5231,0,376.33957,.069670483,30,yes
+Groundnut,Production per hectare,110,271.5231,0,376.33957,26.219759,30,no
+Groundnut,Production per hectare,110,271.5231,0,376.33957,.075252727,40,yes
+Groundnut,Production per hectare,110,271.5231,0,376.33957,28.320578,40,no
+Beans,Production,110,1756.2041,.021574993,31272.17,.10671581,0,yes
+Beans,Production,110,1756.2041,.021574993,31272.17,3337.2346,0,no
+Beans,Production,110,1756.2041,.021574993,31272.17,.1084327,10,yes
+Beans,Production,110,1756.2041,.021574993,31272.17,3390.9255,10,no
+Beans,Production,110,1756.2041,.021574993,31272.17,.11054131,20,yes
+Beans,Production,110,1756.2041,.021574993,31272.17,3456.8667,20,no
+Beans,Production,110,1756.2041,.021574993,31272.17,.1131947,30,yes
+Beans,Production,110,1756.2041,.021574993,31272.17,3539.8435,30,no
+Beans,Production,110,1756.2041,.021574993,31272.17,.11663868,40,yes
+Beans,Production,110,1756.2041,.021574993,31272.17,3647.5444,40,no
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,.10685863,0,yes
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,3341.501,0,no
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,.10857311,10,yes
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,3395.1135,10,no
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,.11067888,20,yes
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,3460.9617,20,no
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,.11332881,30,yes
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,3543.8259,30,no
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,.11676856,40,yes
+Beans,Production per hectare,110,1781.7996,.021657351,31270.299,3651.3877,40,no
+Maize,Production,120,983.49524,.081288457,2342.9531,.18232805,0,yes
+Maize,Production,120,983.49524,.081288457,2342.9531,427.18604,0,no
+Maize,Production,120,983.49524,.081288457,2342.9531,.18319786,10,yes
+Maize,Production,120,983.49524,.081288457,2342.9531,429.22397,10,no
+Maize,Production,120,983.49524,.081288457,2342.9531,.18427934,20,yes
+Maize,Production,120,983.49524,.081288457,2342.9531,431.75784,20,no
+Maize,Production,120,983.49524,.081288457,2342.9531,.18566057,30,yes
+Maize,Production,120,983.49524,.081288457,2342.9531,434.99402,30,no
+Maize,Production,120,983.49524,.081288457,2342.9531,.1874864,40,yes
+Maize,Production,120,983.49524,.081288457,2342.9531,439.27182,40,no
+Maize,Production per hectare,120,533.43048,.127644,683.95239,.22455469,0,yes
+Maize,Production per hectare,120,533.43048,.127644,683.95239,153.58472,0,no
+Maize,Production per hectare,120,533.43048,.127644,683.95239,.2252259,10,yes
+Maize,Production per hectare,120,533.43048,.127644,683.95239,154.04379,10,no
+Maize,Production per hectare,120,533.43048,.127644,683.95239,.2260621,20,yes
+Maize,Production per hectare,120,533.43048,.127644,683.95239,154.61571,20,no
+Maize,Production per hectare,120,533.43048,.127644,683.95239,.22713269,30,yes
+Maize,Production per hectare,120,533.43048,.127644,683.95239,155.34795,30,no
+Maize,Production per hectare,120,533.43048,.127644,683.95239,.22855237,40,yes
+Maize,Production per hectare,120,533.43048,.127644,683.95239,156.31894,40,no
+Avocado,Production,120,539.82275,0,3644.7126,.055808913,0,yes
+Avocado,Production,120,539.82275,0,3644.7126,203.40746,0,no
+Avocado,Production,120,539.82275,0,3644.7126,.058827762,10,yes
+Avocado,Production,120,539.82275,0,3644.7126,214.41028,10,no
+Avocado,Production,120,539.82275,0,3644.7126,.062396262,20,yes
+Avocado,Production,120,539.82275,0,3644.7126,227.41644,20,no
+Avocado,Production,120,539.82275,0,3644.7126,.066704407,30,yes
+Avocado,Production,120,539.82275,0,3644.7126,243.11841,30,no
+Avocado,Production,120,539.82275,0,3644.7126,.072048999,40,yes
+Avocado,Production,120,539.82275,0,3644.7126,262.5979,40,no
+Avocado,Production per hectare,120,,0,,,0,yes
+Avocado,Production per hectare,120,,0,,,0,no
+Avocado,Production per hectare,120,,0,,,10,yes
+Avocado,Production per hectare,120,,0,,,10,no
+Avocado,Production per hectare,120,,0,,,20,yes
+Avocado,Production per hectare,120,,0,,,20,no
+Avocado,Production per hectare,120,,0,,,30,yes
+Avocado,Production per hectare,120,,0,,,30,no
+Avocado,Production per hectare,120,,0,,,40,yes
+Avocado,Production per hectare,120,,0,,,40,no
+Groundnut,Production,120,250.15016,0,403.42685,.055808913,0,yes
+Groundnut,Production,120,250.15016,0,403.42685,22.514814,0,no
+Groundnut,Production,120,250.15016,0,403.42685,.058827762,10,yes
+Groundnut,Production,120,250.15016,0,403.42685,23.732697,10,no
+Groundnut,Production,120,250.15016,0,403.42685,.062396262,20,yes
+Groundnut,Production,120,250.15016,0,403.42685,25.172327,20,no
+Groundnut,Production,120,250.15016,0,403.42685,.066704407,30,yes
+Groundnut,Production,120,250.15016,0,403.42685,26.910349,30,no
+Groundnut,Production,120,250.15016,0,403.42685,.072048999,40,yes
+Groundnut,Production,120,250.15016,0,403.42685,29.0665,40,no
+Groundnut,Production per hectare,120,271.5231,0,376.33957,.055808913,0,yes
+Groundnut,Production per hectare,120,271.5231,0,376.33957,21.003101,0,no
+Groundnut,Production per hectare,120,271.5231,0,376.33957,.058827762,10,yes
+Groundnut,Production per hectare,120,271.5231,0,376.33957,22.139214,10,no
+Groundnut,Production per hectare,120,271.5231,0,376.33957,.062396262,20,yes
+Groundnut,Production per hectare,120,271.5231,0,376.33957,23.482182,20,no
+Groundnut,Production per hectare,120,271.5231,0,376.33957,.066704407,30,yes
+Groundnut,Production per hectare,120,271.5231,0,376.33957,25.103508,30,no
+Groundnut,Production per hectare,120,271.5231,0,376.33957,.072048999,40,yes
+Groundnut,Production per hectare,120,271.5231,0,376.33957,27.114889,40,no
+Beans,Production,120,1756.2041,.021574993,31272.17,.10540979,0,yes
+Beans,Production,120,1756.2041,.021574993,31272.17,3296.3928,0,no
+Beans,Production,120,1756.2041,.021574993,31272.17,.10700387,10,yes
+Beans,Production,120,1756.2041,.021574993,31272.17,3346.2429,10,no
+Beans,Production,120,1756.2041,.021574993,31272.17,.10896368,20,yes
+Beans,Production,120,1756.2041,.021574993,31272.17,3407.5305,20,no
+Beans,Production,120,1756.2041,.021574993,31272.17,.11143279,30,yes
+Beans,Production,120,1756.2041,.021574993,31272.17,3484.7451,30,no
+Beans,Production,120,1756.2041,.021574993,31272.17,.11464226,40,yes
+Beans,Production,120,1756.2041,.021574993,31272.17,3585.1121,40,no
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,.10555448,0,yes
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,3300.7202,0,no
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,.10714628,10,yes
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,3350.4961,10,no
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,.10910337,20,yes
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,3411.6948,20,no
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,.11156919,30,yes
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,3488.8018,30,no
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,.11477457,40,yes
+Beans,Production per hectare,120,1781.7996,.021657351,31270.299,3589.0352,40,no
