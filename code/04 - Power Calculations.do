@@ -3,14 +3,14 @@ use "${github}/data/final/dataset_power_calculations.dta", clear
 
 * Create a dataset to store results
 tempname results
-postfile `results' str40 crop str40 outcome str40 num_farmers str40 num_clusters mean icc sd detectable_difference attrition_percentage str40 multiples_sd using "${github}/output/power_calculations_results.dta", replace
+postfile `results' str40 crop str40 outcome str40 num_farmers str40 num_clusters mean icc sd detectable_difference attrition_percentage str40 results_unit using "${github}/output/power_calculations_results.dta", replace
 
 * Loop through combinations of number of farmers, crops, and outcomes
 forvalues num_farmers = 10(10)90 {  // number of clusters in each arm
     foreach crop in "Maize" "Avocado" "Groundnut" "Beans" {
         foreach outcome in "Production" "Production per hectare" {
 			forvalues attrition_rate = 0.00(0.10)0.10 {
-				foreach multiples_sd in "yes" "no" {
+				foreach results_unit in "Kg or Kg per Hec" "Multiples of SD" "Percentage Increase" {
 					forvalues num_clusters = 13(10)83 {
 						
 						preserve
@@ -36,18 +36,21 @@ forvalues num_farmers = 10(10)90 {  // number of clusters in each arm
 						
 						// Perform power calculation
 						clustersampsi, detectabledifference mu1(`_mean') sd1(`sd') m(`num_farmers_real') k(`num_clusters') rho(`_icc') // for some reason ICC = 0 is not functioning
-						if "`multiples_sd'" == "no" {
+						if "`results_unit'" == "Kg or Kg per Hec" {
 							local dd = r(DD)
 						}
-						else if "`multiples_sd'" == "yes" {
+						else if "`results_unit'" == "Multiples of SD" {
 							local dd = real(r(DD)) / `sd'
+						}
+						else if "`results_unit'" == "Percentage Increase" {
+							local dd = real(r(DD)) / `_mean'
 						}
 						
 						local num_farmers_string = "`num_farmers' farmers"
 						local num_clusters_string = "`num_clusters' clusters"
 						
 						// Save results
-						post `results' ("`crop'") ("`outcome'") ("`num_farmers_string'") ("`num_clusters_string'") (`_mean') (`_icc') (`sd') (`dd') (`attrition_rate' * 100) ("`multiples_sd'")
+						post `results' ("`crop'") ("`outcome'") ("`num_farmers_string'") ("`num_clusters_string'") (`_mean') (`_icc') (`sd') (`dd') (`attrition_rate' * 100) ("`results_unit'")
 						restore
 					
 						
