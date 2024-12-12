@@ -4,6 +4,9 @@
 * Set version
 version 15.1
 
+* Assuring reproducibility
+set seed 1234
+
 * Set project global(s)	
  if "`c(username)'" == "wb633398" {
   global github "C:/Users/wb633398/Documents/GitHub/World Bank/tanzania_power_calculations"
@@ -14,7 +17,7 @@ sysdir set PLUS "ado" // changes location where Stata searches for packages and 
 
 * Run do files 
 * Switch to 0/1 to not-run/run do-files 
-if (1) do "03 - Generates ICC.do"
-if (1) do "04 - Power Calculations.do"
+if (0) do "03 - Generates ICC.do"
+if (0) do "04 - Power Calculations.do"
 
 * End of do-file!
