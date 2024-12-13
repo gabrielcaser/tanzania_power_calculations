@@ -86,9 +86,53 @@ data_final[, hh_a01_1 := NULL]
 data_final[, hh_a03_3a := NULL]
 data_final[, hh_a03_1 := NULL]
 
+
+
+# Winsorizing helper function
+winsorize <- function(x, probs = c(0.01, 0.99)) {
+  quantiles <- quantile(x, probs = probs, na.rm = TRUE)
+  pmin(pmax(x, quantiles[1]), quantiles[2])
+}
+
+# Winsorizing variables in the dataset
+data_final[, total_output_winsor := winsorize(total_output), by = cropid]
+data_final[, total_productivity_winsor := winsorize(total_productivity), by = cropid]
+
+# Creating Stats per Crop at Farmer level for winsorized data
+table_winsor <- data_final[, .(
+  Output_Mean       = mean(total_output_winsor, na.rm = TRUE),
+  Output_SD         = sd(total_output_winsor, na.rm = TRUE),
+  Productivity_Mean = mean(total_productivity_winsor, na.rm = TRUE),
+  Productivity_SD   = sd(total_productivity_winsor, na.rm = TRUE),
+  N_Obs             = .N
+), by = .(cropid)][order(-Output_Mean)]
+
+# Adding Total_Share to winsorized table
+table_winsor[, Total_Share := round(N_Obs / sum(N_Obs), 2)]
+
+# Combine original and winsorized tables
+table_long <- rbind(
+  melt(table, id.vars = "cropid", measure.vars = list(
+    c("Output_Mean", "Productivity_Mean"), 
+    c("Output_SD", "Productivity_SD")
+  ), variable.name = "outcome", value.name = c("mean", "sd"))[, winsorized := "no"],
+  
+  melt(table_winsor, id.vars = "cropid", measure.vars = list(
+    c("Output_Mean", "Productivity_Mean"), 
+    c("Output_SD", "Productivity_SD")
+  ), variable.name = "outcome", value.name = c("mean", "sd"))[, winsorized := "yes"]
+)
+
+# Renaming outcome values for clarity
+table_long[, outcome := fifelse(outcome == 1, "Production", "Production per hectare")]
+
+# Setting variable labels for table_long
+table_long <- set_variable_labels(table_long,
+                                  sd                = "Standard deviation of the OUTCOME of CROP/FRUIT per household",
+                                  mean              = "Average OUTCOME of CROP",
+                                  winsorized        = "Indicates if the values are winsorized"
+)
+
 # Saving data_final and table
 write_dta(table_long, "data/final/crops_stats.dta")
 write_dta(data_final, "data/final/household_crops.dta")
-
-
-

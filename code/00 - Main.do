@@ -17,7 +17,7 @@ sysdir set PLUS "ado" // changes location where Stata searches for packages and 
 
 * Run do files 
 * Switch to 0/1 to not-run/run do-files 
-if (0) do "03 - Generates ICC.do"
-if (0) do "04 - Power Calculations.do"
+if (1) do "03 - Generates ICC.do"
+if (1) do "04 - Power Calculations.do"
 
 * End of do-file!
