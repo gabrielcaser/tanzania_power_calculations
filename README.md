@@ -4,23 +4,7 @@
 
 -   This replication package replicates power calculations used to calculate the Minimum Detectable Effect (MDE) for a lime subsidy program to be ran in Tanzania.
 
-## Tasks
 
-1.  OK Restrict the Sample to the 3 Villages that are part of the experiment ("Iringa", "Katavi", "Njombe")
-
-2.  OK Calculate share of farmers growing each crop
-
-3.  Run Power Calculations
-
-    1.  OK Calculate for Production and Production per Hectare the Mean and Standard Deviation of Crops
-
-    2.  Calculate Intra-Cluster Correlation at the Village Level (or another one if Village is not available)
-
-    3.  Generate MDE considering different parameter values
-
-    4.  Produce a table of results
-
-4.  Compare MDE with the literature and classify the estimated MDE as high or low
 
 ## Folder Structure
 
