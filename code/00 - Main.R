@@ -18,7 +18,7 @@ packages_select = c(
   "readstata13", # reading .dta files
   "haven",       # writing .dta files
   "dplyr",       # data management
-  "labelled",     # variable labels
+  "labelled",    # variable labels
   "Hmisc"        # winsorizing
 )
 
